@@ -1,7 +1,7 @@
 # Projeto Login Form
 
 
-![Capa do Projeto](![Alt text](image.png))
+![Capa do Projeto](!(image.png))
 
 # Sobre o Projeto
 
