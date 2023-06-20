@@ -1,6 +1,8 @@
 # Projeto Login Form
 
 
+![Capa do Projeto](https://drive.google.com/file/d/1tzCA2CqyoXnals5xsVbGvBuCvkT3zQWP/view?usp=sharing)
+
 # Sobre o Projeto
 
 
@@ -16,7 +18,6 @@ Projeto de página de login utilizando os conceitos ensinados na aula de Usabili
 * [Tecnologias Usadas](#tecnologias-usadas)
 * [Contribuição](#contribuição)
 * [Autores](#autores)
-* [Licença](#licença)
 
 # Tecnologias Usadas
 
