@@ -16,7 +16,6 @@ Projeto de página de login utilizando os conceitos ensinados na aula de Usabili
 
 * [Sobre](#sobre-o-projeto)
 * [Tecnologias Usadas](#tecnologias-usadas)
-* [Contribuição](#contribuição)
 * [Autores](#autores)
 
 # Tecnologias Usadas
